@@ -8,7 +8,7 @@
 
     <modules>
         <module>core</module>
-        <module>admin-node</module>
+        <module>admin-nodebbbb</module>
         <module>runnable-node</module>
     </modules>
 
