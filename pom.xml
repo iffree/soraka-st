@@ -10,6 +10,8 @@
         <module>core</module>
         <module>admin-nodeaa</module>
         <module>runnable-node</module>
+        <module>admin-nodebbbb</module>
+        <module>runnable-node-node</module>
     </modules>
 
     <properties>
