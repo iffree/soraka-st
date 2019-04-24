@@ -9,7 +9,7 @@
     <modules>
         <module>core</module>
         <module>admin-nodebbbb</module>
-        <module>runnable-node</module>
+        <module>runnable-node-node</module>
     </modules>
 
     <properties>
